@@ -73,31 +73,12 @@ new class extends Component {
                 </div>
             </div>
             <div class="project-details-information">
-                <h2 class="project-details-title">Redefining Construction Standards</h2>
-                <p>Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam
-                    eros justo,
-                    posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros
-                    justo,
-                    posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere
-                    lobortis non,
-                    viverra</p>
-                <p>Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam
-                    eros justo,
-                    posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros
-                    justo,
-                    posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere
-                    lortis non,
-                    viverraAliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra
-                    .Aliquam eros
-                    justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam
-                    eros justo,
-                    posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere
-                    lobortis non,
-                    viverraAliquam er justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra
-                    .Aliquam eros
-                    justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam
-                    eros justo
-                </p>
+                <h2 class="project-details-title">Redefining Digital Product Standards</h2>
+                <p>We design and deliver scalable, reliable digital products that solve real user problems and drive
+                    measurable business outcomes. Our cross-functional teams handle architecture, design, and
+                    implementation with a strong focus on performance and maintainability.</p>
+                <p>From discovery to deployment, we apply best practices in engineering, observability, and
+                    automated delivery so teams can iterate quickly while keeping uptime and security top of mind.</p>
                 <div class="project-inner-image">
                     <div class="row g-4">
                         @foreach ($project->media as $media)
@@ -112,33 +93,26 @@ new class extends Component {
                     </div>
                 </div>
                 <div class="project-list-info">
-                    <h3 class="title">The project is start from is standerd shine</h3>
+                    <h3 class="title">Project highlights & outcomes</h3>
                     <ul class="list-unstyled">
                         <li><i class="fas fa-check"></i>
-                            <h6>Aliquam eros justo, posuere Aliquam eros justo, po loborti</h6>
+                            <h6>Scalable microservices architecture with horizontal autoscaling</h6>
                         </li>
                         <li><i class="fas fa-check"></i>
-                            <h6>laoreet matti ullamc orper Aliquam eros justo, posuere loborti posu
-                                ere vi</h6>
+                            <h6>Automated CI/CD pipelines and infrastructure-as-code</h6>
                         </li>
                         <li><i class="fas fa-check"></i>
-                            <h6>Aliquam eros justo, posuere Aliquam eros justo, posuere l loborti</h6>
+                            <h6>Performance improvements: 40% faster page loads</h6>
                         </li>
                         <li><i class="fas fa-check"></i>
-                            <h6>Aliquam eros justo, posuere Aliquam eros justo, po loborti</h6>
+                            <h6>Accessible, responsive user interface with improved UX metrics</h6>
                         </li>
                         <li><i class="fas fa-check"></i>
-                            <h6>laoreet matti ullamc orper Aliquam eros justo, posuere loborti posu
-                                ere vi</h6>
+                            <h6>Full observability with monitoring, logging, and alerting</h6>
                         </li>
                     </ul>
-                    <p>Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra
-                        .Aliquam eros
-                        justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet
-                        Aliquam eros
-                        justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros
-                        justo, posuere
-                        lobortis non, viverra</p>
+                    <p>These outcomes enabled the product team to iterate faster while maintaining high availability
+                        and security standards.</p>
                 </div>
                 <div class="pagination">
                     <ul class="list-unstyled">

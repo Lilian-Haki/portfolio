@@ -26,18 +26,17 @@ new class extends Component
                     <div class="col-lg-6">
                         <div class="banner-info">
                             <span class="sub-title uppercase wow fadeInLeft" data-wow-delay=".2s">Smart Solutions</span>
-                            <h2 class="banner-title wow fadeInLeft" data-wow-delay=".4s">Building the spaces where
-                                memories are made</h2>
+                            <h2 class="banner-title wow fadeInLeft" data-wow-delay=".4s">Smart Digital Solutions for Modern Businesses</h2>
                             <p class="wow fadeInLeft" data-wow-delay=".6s">We have been operating for over a decade,
                                 providing top-notch services to our clients and building a
-                                strong </p>
+                                strong digital presence.</p>
                             <a href="about" wire:navigate class="common-btn uppercase wow fadeInLeft"
                                 data-wow-delay=".8s">read More <i class="fas fa-plus"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6 align-self-center">
                         <div class="banner-image">
-                            <img src="/img/banner/banner-image.png" alt="banner-image" class="img-fluid w-100">
+                            <!-- <img src="/img/banner/banner-image.png" alt="banner-image" class="img-fluid w-100"> -->
                         </div>
                     </div>
                 </div>
@@ -52,7 +51,7 @@ new class extends Component
                     <div class="col-lg-6 col-xl-6 col-xxl-5">
                         <div class="about-image position-relative">
                             <div class="image">
-                                <img src="/img/about/about.png" alt="about">
+                                <img src="https://nappy.co/photo/plants%2BiFUbU1v-YzVMdD650im7R" alt="about">
                             </div>
                             <div class="active-customer d-flex align-items-center">
                                 <div class="icon">
@@ -69,7 +68,7 @@ new class extends Component
                         <div class="about-info ms-4">
                             <div class="section-title-one">
                                 <span class="sub-title uppercase">About Us</span>
-                                <h2 class="title">Transforming spaces creating memories</h2>
+                                <h2 class="title">Transforming ideas into scalable digital products.</h2>
                             </div>
                             <p>It is a long established fact that a reader will be distracted by the readablejk content
                                 of a page when
@@ -80,10 +79,8 @@ new class extends Component
                                         <i class="fas fa-angle-double-right"></i>
                                     </div>
                                     <div class="text">
-                                        <h4 class="title">Roof Repair</h4>
-                                        <p>It is a long established fact that a reader will distracted by the readablejk
-                                            content of a page
-                                            when looking at its layout.</p>
+                                        <h4 class="title">Mission</h4>
+                                        <p>Deliver innovative, reliable, and user‑friendly technology solutions..</p>
                                     </div>
                                 </div>
                                 <div class="about-list-items d-flex">
@@ -91,10 +88,8 @@ new class extends Component
                                         <i class="fas fa-angle-double-right"></i>
                                     </div>
                                     <div class="text">
-                                        <h4 class="title">Plumbing Installation</h4>
-                                        <p>It is a long established fact that a reader will distracted by the readablejk
-                                            content of a page
-                                            when looking at its layout.</p>
+                                        <h4 class="title">Vision</h4>
+                                        <p> Empower businesses through digital transformation.</p>
                                     </div>
                                 </div>
                             </div>
@@ -113,9 +108,8 @@ new class extends Component
                         <div class="section-title-one">
                             <span class="sub-title uppercase no-after dark wow fadeInLeft" data-wow-delay=".2s">our
                                 services</span>
-                            <h2 class="title wow fadeInLeft" data-wow-delay=".4s">Constructing excellence delivering
-                                results</h2>
-                        </div>
+                            <h2 class="title wow fadeInLeft" data-wow-delay=".4s">Delivering digital excellence, driving results</h2>
+                        </div>                   
                     </div>
                     <div class="col-lg-6 ms-auto align-self-center">
                         <div class="service-summery wow fadeInRight" data-wow-delay=".2s">
@@ -132,8 +126,8 @@ new class extends Component
                             <div class="row">
                                 <div class="col-sm-12 col-lg-3 col-xl-3 align-self-center">
                                     <div class="image">
-                                        <a href="service-details" wire:navigate class="d-block w-100">
-                                            <img src="/img/services/service-1.png" alt="service-1"
+                                        <a href="service-details" wire:navigate class="d-block w-100">    
+                                        <img src="https://i.pinimg.com/736x/93/b1/1d/93b11d07a2167bb0c9d73645e4406a84.jpg" alt="service-1"
                                                 class="img-fluid w-100">
                                         </a>
                                     </div>
@@ -141,7 +135,7 @@ new class extends Component
                                 <div class="col-sm-12 col-lg-3 col-xl-3 align-self-center">
                                     <div class="service-title ms-lg-4">
                                         <h4 class="title">
-                                            <a href="service-details" wire:navigate>Electrical Wiring</a>
+                                            <a href="service-details" wire:navigate>Web Development</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -165,7 +159,7 @@ new class extends Component
                                 <div class="col-sm-12 col-lg-3 col-xl-3 align-self-center">
                                     <div class="image">
                                         <a href="service-details" wire:navigate class="d-block w-100">
-                                            <img src="/img/services/service-2.png" alt="service-2"
+                                            <img src="https://i.pinimg.com/1200x/9a/d3/29/9ad3293bf6fa444f55ca27a998c91d2c.jpg" alt="service-2"
                                                 class="img-fluid w-100">
                                         </a>
                                     </div>
@@ -173,7 +167,7 @@ new class extends Component
                                 <div class="col-sm-12 col-lg-3 col-xl-3 align-self-center">
                                     <div class="service-title ms-lg-4">
                                         <h4 class="title">
-                                            <a href="service-details" wire:navigate>Flooring Installation</a>
+                                            <a href="service-details" wire:navigate>Mobile App Development</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -197,7 +191,7 @@ new class extends Component
                                 <div class="col-sm-12 col-lg-3 col-xl-3 align-self-center">
                                     <div class="image">
                                         <a href="service-details" wire:navigate class="d-block w-100">
-                                            <img src="/img/services/service-3.png" alt="service-3"
+                                            <img src="https://i.pinimg.com/736x/4e/2e/7a/4e2e7a1b4b04fd4e3d03bef35b61cd80.jpg" alt="service-3"
                                                 class="img-fluid w-100">
                                         </a>
                                     </div>
@@ -205,7 +199,7 @@ new class extends Component
                                 <div class="col-sm-12 col-lg-3 col-xl-3 align-self-center">
                                     <div class="service-title ms-lg-4">
                                         <h4 class="title">
-                                            <a href="service-details" wire:navigate>Fence Repair</a>
+                                            <a href="service-details" wire:navigate>UI/UX Design</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -236,8 +230,8 @@ new class extends Component
                         <div class="col-sm-10 col-md-8 col-lg-6">
                             <div class="section-title-one">
                                 <span class="sub-title uppercase wow fadeInUp" data-wow-delay=".2s">recent work</span>
-                                <h2 class="title text-white wow fadeInUp" data-wow-delay=".4s">Building strong
-                                    foundations for success</h2>
+                                <h2 class="title text-white wow fadeInUp" data-wow-delay=".4s">Shipping products that
+                                    drive success</h2>
                             </div>
                         </div>
                     </div>
@@ -255,9 +249,9 @@ new class extends Component
                                     class="info position-absolute bottom-0 start-0 w-100 d-flex justify-content-between align-items-center">
                                     <div class="text">
                                         <h4 class="title">
-                                            <a href="project-details" wire:navigate>Concrete Repair</a>
+                                            <a href="project-details" wire:navigate>E‑commerce Platform</a>
                                         </h4>
-                                        <p>Lorem Ipsum is simply dummy</p>
+                                        <p>Scalable retail platform with seamless checkout.</p>
                                     </div>
                                     <div class="plus">
                                         <a href="project-details" wire:navigate><i class="fas fa-plus"></i></a>
@@ -276,9 +270,9 @@ new class extends Component
                                     class="info position-absolute bottom-0 start-0 w-100 d-flex justify-content-between align-items-center">
                                     <div class="text">
                                         <h4 class="title">
-                                            <a href="project-details" wire:navigate>Concrete Repair</a>
+                                            <a href="project-details" wire:navigate>Mobile App Redesign</a>
                                         </h4>
-                                        <p>Lorem Ipsum is simply dummy</p>
+                                        <p>User-centered mobile experience redesign.</p>
                                     </div>
                                     <div class="plus">
                                         <a href="project-details" wire:navigate><i class="fas fa-plus"></i></a>
@@ -297,9 +291,9 @@ new class extends Component
                                     class="info position-absolute bottom-0 start-0 w-100 d-flex justify-content-between align-items-center">
                                     <div class="text">
                                         <h4 class="title">
-                                            <a href="project-details" wire:navigate>Concrete Repair</a>
+                                            <a href="project-details" wire:navigate>Cloud Migration</a>
                                         </h4>
-                                        <p>Lorem Ipsum is simply dummy</p>
+                                        <p>Reliable cloud migration and infrastructure automation.</p>
                                     </div>
                                     <div class="plus">
                                         <a href="project-details" wire:navigate><i class="fas fa-plus"></i></a>
@@ -318,9 +312,9 @@ new class extends Component
                                     class="info position-absolute bottom-0 start-0 w-100 d-flex justify-content-between align-items-center">
                                     <div class="text">
                                         <h4 class="title">
-                                            <a href="project-details" wire:navigate>Concrete Repair</a>
+                                            <a href="project-details" wire:navigate>Analytics Dashboard</a>
                                         </h4>
-                                        <p>Lorem Ipsum is simply dummy</p>
+                                        <p>Real-time analytics to inform product decisions.</p>
                                     </div>
                                     <div class="plus">
                                         <a href="project-details" wire:navigate><i class="fas fa-plus"></i></a>
@@ -344,8 +338,8 @@ new class extends Component
                                 <img src="/img/counter/counter-1.svg" alt="feature-1">
                             </div>
                             <div class="info">
-                                <h2 class="counter-number"><span class="odometer" data-count="200"></span>+</h2>
-                                <p>Winning award</p>
+                                <h2 class="counter-number"><span class="odometer" data-count="50"></span>+</h2>
+                                <p>Projects Delivered</p>
                             </div>
                         </div>
                     </div>
@@ -355,8 +349,8 @@ new class extends Component
                                 <img src="/img/counter/counter-2.svg" alt="feature-2">
                             </div>
                             <div class="info">
-                                <h2 class="counter-number"><span class="odometer" data-count="550"></span>+</h2>
-                                <p>Project Done</p>
+                                <h2 class="counter-number"><span class="odometer" data-count="20"></span>+</h2>
+                                <p>Satisfied Clients</p>
                             </div>
                         </div>
                     </div>
@@ -366,8 +360,8 @@ new class extends Component
                                 <img src="/img/counter/counter-3.svg" alt="feature-3">
                             </div>
                             <div class="info">
-                                <h2 class="counter-number"><span class="odometer" data-count="100"></span>+</h2>
-                                <p>Clients Review</p>
+                                <h2 class="counter-number"><span class="odometer" data-count="5"></span>+</h2>
+                                <p>Active Team Members</p>
                             </div>
                         </div>
                     </div>
@@ -395,7 +389,7 @@ new class extends Component
                     <div class="col-lg-5 mx-auto">
                         <div class="section-title-one text-center">
                             <span class="sub-title uppercase dark">active employes</span>
-                            <h2 class="title">Construction done right every time</h2>
+                            <h2 class="title">Engineering excellence, every release</h2>
                         </div>
                     </div>
                 </div>
@@ -420,7 +414,7 @@ new class extends Component
                                 <h4 class="employee-title">
                                     <a href="team-details" wire:navigate>Albert Flores</a>
                                 </h4>
-                                <p>Pro Trainer</p>
+                                <p>Lead Engineer</p>
                             </div>
                         </div>
                     </div>
@@ -444,7 +438,7 @@ new class extends Component
                                 <h4 class="employee-title">
                                     <a href="team-details" wire:navigate>Courtney Henry</a>
                                 </h4>
-                                <p>Wall Fixer</p>
+                                <p>Senior Backend Engineer</p>
                             </div>
                         </div>
                     </div>
@@ -468,7 +462,7 @@ new class extends Component
                                 <h4 class="employee-title">
                                     <a href="team-details" wire:navigate>Courtney Henry</a>
                                 </h4>
-                                <p>Design Expert</p>
+                                <p>Product Designer</p>
                             </div>
                         </div>
                     </div>
@@ -492,7 +486,7 @@ new class extends Component
                                 <h4 class="employee-title">
                                     <a href="team-details" wire:navigate>Albert Flores</a>
                                 </h4>
-                                <p>Pro Trainer</p>
+                                <p>Lead Engineer</p>
                             </div>
                         </div>
                     </div>
@@ -509,8 +503,7 @@ new class extends Component
                         <div class="col-lg-5 col-xl-4">
                             <div class="get-updates-info">
                                 <h2 class="text-white title">Sign Up For news & Get All Updates</h2>
-                                <p class="text-white">It is a long established fact that a reader will be distracted by
-                                    the</p>
+                                <p class="text-white">Get the latest product updates, engineering insights, and events.</p>
                             </div>
                         </div>
                         <div class="col-lg-5 col-xl-4 ms-auto align-self-center">
@@ -537,7 +530,7 @@ new class extends Component
                     <div class="col-lg-6">
                         <div class="section-title-one">
                             <span class="sub-title uppercase no-after dark">working process</span>
-                            <h2 class="title">Innovation in construction at your service</h2>
+                            <h2 class="title">Innovation in software at your service</h2>
                         </div>
                         <div class="working-process-info">
                             <p>It is a long established fact that a reader will be distracted by the readablejk content
@@ -553,7 +546,7 @@ new class extends Component
                                     <img src="/img/working-process/icon-1.svg" alt="icon-1">
                                 </div>
                                 <div class="title">
-                                    <h4>Site Preparation</h4>
+                                    <h4>Web Development</h4>
                                 </div>
                             </div>
                             <div class="number">
@@ -566,7 +559,7 @@ new class extends Component
                                     <img src="/img/working-process/icon-2.svg" alt="icon-2">
                                 </div>
                                 <div class="title">
-                                    <h4>Roofing Installation</h4>
+                                    <h4>Mobile Applications</h4>
                                 </div>
                             </div>
                             <div class="number">
@@ -579,11 +572,37 @@ new class extends Component
                                     <img src="/img/working-process/icon-3.svg" alt="icon-3">
                                 </div>
                                 <div class="title">
-                                    <h4>Flooring Installation</h4>
+                                    <h4>UI/UX Design</h4>
                                 </div>
                             </div>
                             <div class="number">
                                 <h3>03</h3>
+                            </div>
+                        </div>
+                        <div class="working-process-item d-flex justify-content-between align-items-center">
+                            <div class="info d-flex align-items-center">
+                                <div class="image">
+                                    <img src="/img/working-process/icon-3.svg" alt="icon-3">
+                                </div>
+                                <div class="title">
+                                    <h4>IT Consulting</h4>
+                                </div>
+                            </div>
+                            <div class="number">
+                                <h3>04</h3>
+                            </div>
+                        </div>
+                        <div class="working-process-item d-flex justify-content-between align-items-center">
+                            <div class="info d-flex align-items-center">
+                                <div class="image">
+                                    <img src="/img/working-process/icon-3.svg" alt="icon-3">
+                                </div>
+                                <div class="title">
+                                    <h4>Cloud & Integrations</h4>
+                                </div>
+                            </div>
+                            <div class="number">
+                                <h3>05</h3>
                             </div>
                         </div>
                     </div>
@@ -599,7 +618,7 @@ new class extends Component
                     <div class="col-lg-6">
                         <div class="section-title-one">
                             <span class="sub-title uppercase">Some FAQ</span>
-                            <h2 class="title">construction at your service A passion precision pride</h2>
+                            <h2 class="title">Software solutions: Passion, Precision, Performance</h2>
                         </div>
                         <div class="faq-body">
                             <div class="accordion" id="accordionExample">
@@ -683,7 +702,7 @@ new class extends Component
                     <div class="col-lg-6 mx-auto">
                         <div class="section-title-one text-center">
                             <span class="sub-title uppercase">clients testimonial</span>
-                            <h2 class="title">Construction that exceeds expectations</h2>
+                            <h2 class="title">What Our Clients Say About Us...</h2>
                         </div>
                     </div>
                 </div>
@@ -699,8 +718,8 @@ new class extends Component
                                         alt="testimonial-avatar-1">
                                 </div>
                                 <div class="text">
-                                    <h4 class="title">Savannah Nguyen</h4>
-                                    <p>Dog Trainer</p>
+                                    <h4 class="title">Paula Wawira</h4>
+                                    <p>CEO, Retail</p>
                                 </div>
                             </div>
                             <div class="testimonial-info">
@@ -711,10 +730,7 @@ new class extends Component
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
                                 </div>
-                                <p>There are many variations of passages of lk Lorem Ipsum available, but the majority
-                                    hjk have suffered
-                                    alteration in some form, byhl injected humour There are many variations of passages
-                                    of </p>
+                           <p>They built our e‑commerce platform with seamless payment integration — sales doubled within months.</p>
                             </div>
                         </div>
                     </div>
@@ -730,7 +746,7 @@ new class extends Component
                                 </div>
                                 <div class="text">
                                     <h4 class="title">Cameron Williamson</h4>
-                                    <p>Dog Trainer</p>
+                                    <p>Product Manager</p>
                                 </div>
                             </div>
                             <div class="testimonial-info">
@@ -741,10 +757,7 @@ new class extends Component
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
                                 </div>
-                                <p>There are many variations of passages of lk Lorem Ipsum available, but the majority
-                                    hjk have suffered
-                                    alteration in some form, byhl injected humour There are many variations of passages
-                                    of </p>
+                                <p>Our mobile app launch was smooth, and users love the intuitive design </p>
                             </div>
                         </div>
                     </div>
@@ -759,8 +772,8 @@ new class extends Component
                                         alt="testimonial-avatar-1">
                                 </div>
                                 <div class="text">
-                                    <h4 class="title">Savannah Nguyen</h4>
-                                    <p>Dog Trainer</p>
+                                    <h4 class="title">Lilian Haki</h4>
+                                    <p>CTO</p>
                                 </div>
                             </div>
                             <div class="testimonial-info">
@@ -771,10 +784,7 @@ new class extends Component
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
                                 </div>
-                                <p>There are many variations of passages of lk Lorem Ipsum available, but the majority
-                                    hjk have suffered
-                                    alteration in some form, byhl injected humour There are many variations of passages
-                                    of </p>
+                                <p>They built our e‑commerce platform with seamless payment integration — sales doubled within months.</p>
                             </div>
                         </div>
                     </div>
@@ -799,7 +809,7 @@ new class extends Component
                                 <div class="text">
                                     <div class="section-title-one">
                                         <span class="sub-title uppercase white">talk with us</span>
-                                        <h2 class="title white">Building with passion precision and pride</h2>
+                                        <h2 class="title white">Creating with passion, precision, and performance</h2>
                                     </div>
                                     <div class="messages-box">
                                         <form action="#">
@@ -857,7 +867,6 @@ new class extends Component
                         <div class="col-lg-6">
                             <div class="section-title-one">
                                 <span class="sub-title uppercase no-after">blog and news</span>
-                                <h2 class="title">Construction solutions tailored to your needs</h2>
                             </div>
                         </div>
                     </div>
@@ -873,12 +882,12 @@ new class extends Component
                                     <div class="news-meta">
                                         <ul>
                                             <li><a href="#"><i class="fas fa-user"></i> By admin</a></li>
-                                            <li><i class="fas fa-calendar-alt"></i> October 19, 2022</li>
+                                            <li><i class="fas fa-calendar-alt"></i> February 23, 2026</li>
                                         </ul>
                                     </div>
                                     <h4 class="news-title">
                                         <a href="blog-details" wire:navigate>
-                                            Construction responsible for obtaining permits
+                                            Top 5 Trends in Mobile App Development
                                         </a>
                                     </h4>
                                     <a href="blog-details" wire:navigate class="read-more uppercase">Read More <i
@@ -897,13 +906,11 @@ new class extends Component
                                     <div class="news-meta">
                                         <ul>
                                             <li><a href="#"><i class="fas fa-user"></i> By admin</a></li>
-                                            <li><i class="fas fa-calendar-alt"></i> October 19, 2022</li>
+                                            <li><i class="fas fa-calendar-alt"></i> February 23, 2026</li>
                                         </ul>
                                     </div>
                                     <h4 class="news-title">
-                                        <a href="blog-details" wire:navigate>
-                                            Choose the right construction company for my project
-                                        </a>
+                                        <a href="blog-details" wire:navigate>Why Your Business Needs a Scalable Web Platform                                        </a>
                                     </h4>
                                     <a href="#" class="read-more uppercase">Read More <i
                                             class="fas fa-arrow-right"></i></a>
@@ -921,12 +928,12 @@ new class extends Component
                                     <div class="news-meta">
                                         <ul>
                                             <li><a href="#"><i class="fas fa-user"></i> By admin</a></li>
-                                            <li><i class="fas fa-calendar-alt"></i> October 19, 2022</li>
+                                            <li><i class="fas fa-calendar-alt"></i> February 23, 2025</li>
                                         </ul>
                                     </div>
                                     <h4 class="news-title">
                                         <a href="blog-details" wire:navigate>
-                                            Safety measures are taken during construction projects
+                                            Designing for Accessibility: A UX Guide
                                         </a>
                                     </h4>
                                     <a href="blog-details" wire:navigate class="read-more uppercase">Read More <i
@@ -945,12 +952,12 @@ new class extends Component
                                     <div class="news-meta">
                                         <ul>
                                             <li><a href="blog-classic" wire:navigate><i class="fas fa-user"></i> By admin</a></li>
-                                            <li><i class="fas fa-calendar-alt"></i> October 19, 2022</li>
+                                            <li><i class="fas fa-calendar-alt"></i> February 23, 2026</li>
                                         </ul>
                                     </div>
                                     <h4 class="news-title">
                                         <a href="blog-details" wire:navigate>
-                                            Construction responsible for obtaining permits
+                                            IT Trends to Adapt For Your Business
                                         </a>
                                     </h4>
                                     <a href="blog-details" wire:navigate class="read-more uppercase">Read More <i
