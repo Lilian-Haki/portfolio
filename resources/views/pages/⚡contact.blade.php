@@ -40,14 +40,11 @@ new class extends Component
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="section-title-one">
-                            <span class="sub-title uppercase">Send a messege</span>
-                            <h2 class="title">Feel free to messege</h2>
+                            <span class="sub-title uppercase">Send us a message</span>
+                            <h2 class="title">We're here to help you</h2>
                         </div>
                         <div class="short-description">
-                            <p>Aliquam eros justo, posuere loborti viverra lao ullamcorper posuere viverra .Aliquam eros
-                                justo,
-                                posuere
-                                lobortis non, viverra laoreet </p>
+                            <p>Feel free to reach out to us with any questions or concerns. We're here to assist you!</p>
                         </div>
                     </div>
                 </div>
@@ -92,7 +89,7 @@ new class extends Component
                                     </li>
                                     <li class="info">
                                         <h4 class="title">Phone number</h4>
-                                        <p>0000-0000-00-000</p>
+                                        <p>(+254) 757-151-520</p>
                                     </li>
                                 </ul>
                             </div>
@@ -103,7 +100,7 @@ new class extends Component
                                     </li>
                                     <li class="info">
                                         <h4 class="title">Email Address</h4>
-                                        <p>hasan000@yourmail.com</p>
+                                        <p>info@gmail.com</p>
                                     </li>
                                 </ul>
                             </div>
@@ -114,7 +111,7 @@ new class extends Component
                                     </li>
                                     <li class="info">
                                         <h4 class="title">Address</h4>
-                                        <p>Dhaka 102, utl 1216, road 45 Dhaka 102, utl 1216 </p>
+                                        <p>Nairobi, Kenya </p>
                                     </li>
                                 </ul>
                             </div>
@@ -135,28 +132,7 @@ new class extends Component
         </div>
         <!-- contact map end -->
 
-        <!-- call to action part start -->
-        <section class="call-to-action-area">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="image">
-                        <img src="/img/images/call-to-action-image.png" alt="call-to-action-image"
-                            class="img-fluid w-100">
-                    </div>
-                </div>
-                <div class="col-lg-6 align-self-center">
-                    <div class="info">
-                        <div class="phone-icon">
-                            <i class="fas fa-phone-alt"></i>
-                        </div>
-                        <h3 class="text-white title">Need help? Call us Today <a href="tel:+201-555-0124">+201-
-                                555-0124</a></h3>
-                        <p class="text-white">Lorem Ipsum is simply dummy text of the printing </p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- call to action part end -->
+        
 
 
     </main>

@@ -36,7 +36,7 @@ new class extends Component {
                         <a class="nav-link active" aria-current="page" href="/" wire:navigate>Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/about" wire:navigate>About Me</a>
+                        <a class="nav-link" href="/about" wire:navigate>About Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Services <i class="fas fa-chevron-down"></i></a>
@@ -56,9 +56,9 @@ new class extends Component {
                             @endforeach
                         </ul>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="/blog" wire:navigate>Blog</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link" href="/contact" wire:navigate>Contact</a>
                     </li>
@@ -77,10 +77,10 @@ new class extends Component {
                             <i class="fas fa-phone-alt"></i>
                         </div>
                         <div class="info">
-                            <p>Need help?</p>
+                            <p>Have any enquiries?</p>
                             <h6>
-                                <a href="tel:(808)555-0111">
-                                    (808) 555-0111
+                                <a href="tel:(+254) 757-151-520">
+                                   (+254) 757-151-520
                                 </a>
                             </h6>
                         </div>

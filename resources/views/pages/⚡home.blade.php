@@ -53,15 +53,6 @@ new class extends Component
                             <div class="image">
                                 <img src="https://nappy.co/photo/plants%2BiFUbU1v-YzVMdD650im7R" alt="about">
                             </div>
-                            <div class="active-customer d-flex align-items-center">
-                                <div class="icon">
-                                    <img src="/img/about/active-customer-icon.svg" alt="active-customer-icon">
-                                </div>
-                                <div class="title">
-                                    <h2 class="number"><span>4</span>k+</h2>
-                                    <p>Daily Activate Customer</p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xl-6 col-xxl-7">
@@ -70,11 +61,9 @@ new class extends Component
                                 <span class="sub-title uppercase">About Us</span>
                                 <h2 class="title">Transforming ideas into scalable digital products.</h2>
                             </div>
-                            <p>It is a long established fact that a reader will be distracted by the readablejk content
-                                of a page when
-                                looking at its layout. Lorem Ipsum is simply dummyj</p>
+                            <p>We are a forward‑thinking technology solutions company dedicated to helping businesses thrive in the digital era. Our team of developers, designers, and strategists work together to deliver scalable, user‑friendly, and future‑ready products.</p>
                             <div class="about-list">
-                                <div class="about-list-items d-flex">
+                                <div class="about-list-items d-flex mt-2">
                                     <div class="icon">
                                         <i class="fas fa-angle-double-right"></i>
                                     </div>
@@ -83,7 +72,7 @@ new class extends Component
                                         <p>Deliver innovative, reliable, and user‑friendly technology solutions..</p>
                                     </div>
                                 </div>
-                                <div class="about-list-items d-flex">
+                                <div class="about-list-items d-flex mt-1">
                                     <div class="icon">
                                         <i class="fas fa-angle-double-right"></i>
                                     </div>
@@ -242,7 +231,7 @@ new class extends Component
                             <div class="project-item-one position-relative">
                                 <div class="image">
                                     <a href="project-details" wire:navigate class="d-block w-100">
-                                        <img src="/img/works/work-1.png" alt="work-1" class="img-fluid w-100">
+                                        <img src="https://i.pinimg.com/736x/95/1f/da/951fda6b5dd0058a67bcf65dc98d2472.jpg" alt="work-1" class="img-fluid w-100">
                                     </a>
                                 </div>
                                 <div
@@ -263,7 +252,7 @@ new class extends Component
                             <div class="project-item-one position-relative">
                                 <div class="image">
                                     <a href="project-details" wire:navigate class="d-block w-100">
-                                        <img src="/img/works/work-2.png" alt="work-2" class="img-fluid w-100">
+                                        <img src="https://i.pinimg.com/1200x/95/e3/a7/95e3a77f3ade39df7cc791639801dd4f.jpg" alt="work-2" class="img-fluid w-100">
                                     </a>
                                 </div>
                                 <div
@@ -284,7 +273,7 @@ new class extends Component
                             <div class="project-item-one position-relative">
                                 <div class="image">
                                     <a href="project-details" wire:navigate class="d-block w-100">
-                                        <img src="/img/works/work-3.png" alt="work-3" class="img-fluid w-100">
+                                        <img src="https://i.pinimg.com/736x/5b/ab/e8/5babe8cc193f9a425f488899825c3523.jpg" alt="work-3" class="img-fluid w-100">
                                     </a>
                                 </div>
                                 <div
@@ -305,7 +294,7 @@ new class extends Component
                             <div class="project-item-one position-relative">
                                 <div class="image">
                                     <a href="project-details" wire:navigate class="d-block w-100">
-                                        <img src="/img/works/work-1.png" alt="work-1" class="img-fluid w-100">
+                                        <img src="https://i.pinimg.com/736x/e5/85/21/e58521bd04c7a9f95efa633581181d02.jpg" alt="work-1" class="img-fluid w-100">
                                     </a>
                                 </div>
                                 <div
@@ -332,7 +321,7 @@ new class extends Component
         <section class="counter-area-one">
             <div class="container">
                 <div class="row g-4 g-lg-0">
-                    <div class="col-sm-6 col-lg-3">
+                    <div class="col-sm-6 col-lg-4">
                         <div class="counter-one-item d-flex align-items-center">
                             <div class="icon">
                                 <img src="/img/counter/counter-1.svg" alt="feature-1">
@@ -343,7 +332,7 @@ new class extends Component
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-lg-3">
+                    <div class="col-sm-6 col-lg-4">
                         <div class="counter-one-item d-flex align-items-center">
                             <div class="icon">
                                 <img src="/img/counter/counter-2.svg" alt="feature-2">
@@ -354,25 +343,15 @@ new class extends Component
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-lg-3">
-                        <div class="counter-one-item d-flex align-items-center">
-                            <div class="icon">
-                                <img src="/img/counter/counter-3.svg" alt="feature-3">
-                            </div>
-                            <div class="info">
-                                <h2 class="counter-number"><span class="odometer" data-count="5"></span>+</h2>
-                                <p>Active Team Members</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3">
+                   
+                    <div class="col-sm-6 col-lg-4">
                         <div class="counter-one-item d-flex align-items-center">
                             <div class="icon">
                                 <img src="/img/counter/counter-4.svg" alt="feature-4">
                             </div>
                             <div class="info">
-                                <h2 class="counter-number"><span class="odometer" data-count="350"></span>+</h2>
-                                <p>Team Member</p>
+                                <h2 class="counter-number"><span class="odometer" data-count="10"></span>+</h2>
+                                <p>Active Team Members</p>
                             </div>
                         </div>
                     </div>
@@ -381,120 +360,6 @@ new class extends Component
         </section>
         <!-- counter part end -->
 
-
-        <!-- active employes part start -->
-        <section class="active-employes-area-one">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-5 mx-auto">
-                        <div class="section-title-one text-center">
-                            <span class="sub-title uppercase dark">active employes</span>
-                            <h2 class="title">Engineering excellence, every release</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row active-employes-slider">
-                    <div class="col-lg-4">
-                        <div class="active-employes-item-one">
-                            <div class="image">
-                                <a href="team-details" wire:navigate class="d-block w-100">
-                                    <img src="/img/employees/employes-1.png" alt="employes-1"
-                                        class="img-fluid w-100">
-                                </a>
-                            </div>
-                            <div class="text text-center">
-                                <div class="social-icon">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                                <h4 class="employee-title">
-                                    <a href="team-details" wire:navigate>Albert Flores</a>
-                                </h4>
-                                <p>Lead Engineer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="active-employes-item-one">
-                            <div class="image">
-                                <a href="team-details" wire:navigate class="d-block w-100">
-                                    <img src="/img/employees/employes-2.png" alt="employes-2"
-                                        class="img-fluid w-100">
-                                </a>
-                            </div>
-                            <div class="text text-center">
-                                <div class="social-icon">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                                <h4 class="employee-title">
-                                    <a href="team-details" wire:navigate>Courtney Henry</a>
-                                </h4>
-                                <p>Senior Backend Engineer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="active-employes-item-one">
-                            <div class="image">
-                                <a href="team-details" wire:navigate class="d-block w-100">
-                                    <img src="/img/employees/employes-3.png" alt="employes-3"
-                                        class="img-fluid w-100">
-                                </a>
-                            </div>
-                            <div class="text text-center">
-                                <div class="social-icon">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                                <h4 class="employee-title">
-                                    <a href="team-details" wire:navigate>Courtney Henry</a>
-                                </h4>
-                                <p>Product Designer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="active-employes-item-one">
-                            <div class="image">
-                                <a href="team-details" wire:navigate class="d-block w-100">
-                                    <img src="/img/employees/employes-1.png" alt="employes-1"
-                                        class="img-fluid w-100">
-                                </a>
-                            </div>
-                            <div class="text text-center">
-                                <div class="social-icon">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                                <h4 class="employee-title">
-                                    <a href="team-details" wire:navigate>Albert Flores</a>
-                                </h4>
-                                <p>Lead Engineer</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- active employes part end -->
-
         <!-- get updates part start -->
         <section class="get-updates-area-one">
             <div class="update-area-bg-one">
@@ -502,8 +367,8 @@ new class extends Component
                     <div class="row">
                         <div class="col-lg-5 col-xl-4">
                             <div class="get-updates-info">
-                                <h2 class="text-white title">Sign Up For news & Get All Updates</h2>
-                                <p class="text-white">Get the latest product updates, engineering insights, and events.</p>
+                                <h2 class="text-white title">Sign Up For News & Updates</h2>
+                                <p class="text-white">Get the latest offers, tech updates, and events.</p>
                             </div>
                         </div>
                         <div class="col-lg-5 col-xl-4 ms-auto align-self-center">
@@ -512,8 +377,8 @@ new class extends Component
                                     <i class="fas fa-phone-alt"></i>
                                 </div>
                                 <div class="text">
-                                    <h4 class="title">Contact with us</h4>
-                                    <h3 class="number"><a href="tel:(405)555-0128">(405) 555-0128</a></h3>
+                                    <h4 class="title">Contact us</h4>
+                                    <h3 class="text-white"><a href="tel:(+254) 757-151-520">(+254) 757-151-520</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -529,13 +394,16 @@ new class extends Component
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="section-title-one">
-                            <span class="sub-title uppercase no-after dark">working process</span>
-                            <h2 class="title">Innovation in software at your service</h2>
+                            <span class="sub-title uppercase no-after dark">what we offer</span>
+                            <h2 class="title">Empowering Businesses Through Technology</h2>
                         </div>
-                        <div class="working-process-info">
-                            <p>It is a long established fact that a reader will be distracted by the readablejk content
-                                of a page when
-                                looking at its layout.</p>
+                        <div class="working-process-info m-4 ">
+                            <p class="">Creating solutions that connect, inspire, and scale globally.</p>
+                            <p>-Web Development: Custom websites, e‑commerce platforms, and dashboards.</p>
+                            <p>-Mobile Apps: Native and cross‑platform apps tailored to business needs.</p>
+                            <p>-UI/UX Design: Intuitive, modern, and accessible user experiences.</p>
+                            <p>-Branding & Graphics: Logos, brand identity, and digital marketing assets.</p>
+                            <p>-Cloud & Integrations: Payment gateways, API integrations, and cloud hosting.</p>
                             <a href="about" wire:navigate class="common-btn uppercase">read More <i class="fas fa-plus"></i></a>
                         </div>
                     </div>
@@ -714,7 +582,7 @@ new class extends Component
                             </div>
                             <div class="testimonial-avatar d-flex align-items-center">
                                 <div class="image">
-                                    <img src="/img/testimonial/testimonial-avatar-1.png"
+                                    <img src="https://images.nappy.co/photo/96pUcyAVhrHKS7O3J_MHi.jpg?width=1260"
                                         alt="testimonial-avatar-1">
                                 </div>
                                 <div class="text">
@@ -741,7 +609,7 @@ new class extends Component
                             </div>
                             <div class="testimonial-avatar d-flex align-items-center">
                                 <div class="image">
-                                    <img src="/img/testimonial/testimonial-avatar-2.png"
+                                    <img src="https://images.nappy.co/photo/p6kn3T44oBqU6AhTqdhZu.jpg?width=1260"
                                         alt="testimonial-avatar-2">
                                 </div>
                                 <div class="text">
@@ -768,7 +636,7 @@ new class extends Component
                             </div>
                             <div class="testimonial-avatar d-flex align-items-center">
                                 <div class="image">
-                                    <img src="/img/testimonial/testimonial-avatar-1.png"
+                                    <img src="https://images.nappy.co/photo/5FBw1lIoQpFr_m-w__cW6.jpg?width=1260"
                                         alt="testimonial-avatar-1">
                                 </div>
                                 <div class="text">

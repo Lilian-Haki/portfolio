@@ -21,9 +21,7 @@ new class extends Component {
                                 </a>
                             </div>
                             <div class="footer-content">
-                                <p>Lorem Ipsum is simply is dumi omy is text Loremo Ipsum is simply is out no
-                                    our o
-                                    dummy text.</p>
+                                <p>We are a forward‑thinking technology company dedicated to building scalable, user‑friendly digital solutions.</p>
                                 <div class="social">
                                     <ul class="list-unstyled">
                                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -37,11 +35,10 @@ new class extends Component {
                     </div>
                     <div class="col-sm-6 col-lg-3">
                         <div class="footer-widget ms-5">
-                            <h4 class="footer-title uppercase">Get Free Link</h4>
+                            <h4 class="footer-title uppercase">Our Services</h4>
                             <div class="footer-link">
                                 <ul>
-                                    <li><a href="#"><i class="fas fa-angle-right"></i> Software Development</a>
-                                    </li>
+                                    <li><a href="#"><i class="fas fa-angle-right"></i> Software Development</a></li>
                                     <li><a href="#"><i class="fas fa-angle-right"></i> Data Analytics</a></li>
                                     <li><a href="#"><i class="fas fa-angle-right"></i> IT Consulting</a></li>
                                     <li><a href="#"><i class="fas fa-angle-right"></i> UI/UX Design</a></li>
@@ -62,7 +59,7 @@ new class extends Component {
                                             <i class="fas fa-paper-plane"></i>
                                         </div>
                                         <div class="content">
-                                            <p>2972 Westheimer Rd. Santa Ana, Illinois 85486</p>
+                                            <p>Nairobi, Kenya</p>
                                         </div>
                                     </li>
                                     <li class="d-flex">
@@ -70,8 +67,7 @@ new class extends Component {
                                             <i class="fas fa-envelope"></i>
                                         </div>
                                         <div class="content">
-                                            <a href="mailto:debbie.baker@example.com">debbie.baker@example.com</a>
-                                            <a href="mailto:nevaeh.simm@example.com">nevaeh.simm@example.com</a>
+                                            <a href="mailto:info@gmail.com">info@gmail.com</a>
                                         </div>
                                     </li>
                                     <li class="d-flex">
@@ -79,8 +75,7 @@ new class extends Component {
                                             <i class="fas fa-phone-alt"></i>
                                         </div>
                                         <div class="content">
-                                            <a href="tel:(405)555-0128">(405) 555-0128</a>
-                                            <a href="tel:(629)555-0129">(629) 555-0129</a>
+                                            <a href="tel:(+254) 757-151-520">(+254) 757-151-520</a>
                                         </div>
                                     </li>
                                 </ul>
@@ -90,7 +85,7 @@ new class extends Component {
                     <div class="col-sm-6 col-lg-3">
                         <div class="footer-widget">
                             <h4 class="footer-title uppercase">Newsletter</h4>
-                            <p>Lorem Ipsum is simply is dumi omy is text Loremo Ipsum</p>
+                            <p>Enter your email to subscribe to our newsletter</p>
                             <div class="footer-newsletter">
                                 <form action="#">
                                     <div class="position-relative">
